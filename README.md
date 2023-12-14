@@ -3,3 +3,19 @@ Script desenvolvido para verificar a conectividade de um IP dentro da rede inter
 
 ## Tecnologia Utilizadas
 - Powershell
+  
+## Guia do usuário
+Passo 1: Faça o download do projeto completo.
+
+Passo 2: Após concluir, crie um arquivo log.
+
+Passo 3: Insira o caminho do arqujvo log no script.
+
+Passo 4: Insira o IP do dispositivo no script.
+
+Passo 5: Anexe o caminho do LogsIP ao iniciador.
+
+Passo 6 : Para finalizar, integre o iniciador com o agendador de tarefas
+
+## Autor
+ - Pedro Henrique dos Santos Ewen - [Linkedin](https://www.linkedin.com/in/pedroewen-sec/) | [Github](https://github.com/PedroEwen)
